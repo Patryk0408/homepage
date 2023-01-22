@@ -82,7 +82,6 @@
 
 @media(max-width: 600px) {
     .navigation {
-        display: grid;
         grid-template-columns: 1fr auto;
     }
 
